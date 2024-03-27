@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "izitoast": "^1.4.0",
     "simplelightbox": "^2.14.2"
   }
 }
