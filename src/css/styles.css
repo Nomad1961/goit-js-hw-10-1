@@ -1,0 +1,30 @@
+timer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: black;
+  background-color: red;
+  padding: 1rem;
+  border-radius: 5px;
+  margin-top: 1rem;
+}
+.timer .field {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 25%;
+}
+.timer .field .value {
+  font-size: 3rem;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 0.5rem;
+}
+.timer .field .label {
+  font-size: 1rem;
+  font-weight: bold;
+  color: black;
+}
