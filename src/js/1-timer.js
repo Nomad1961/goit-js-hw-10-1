@@ -86,7 +86,3 @@ FetchIt.Message = {
 let toast = new Toast('My sample message', 'Test', Toast.TYPE_SUCCESS, {
   progressBar: false,
 });
-// Или используя статический метод
-// let toast = Toast.make('My sample message', 'Test', Toast.TYPE_SUCCESS, {
-//   progressBar: false,
-// });
